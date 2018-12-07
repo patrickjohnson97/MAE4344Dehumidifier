@@ -1,7 +1,7 @@
 
 
 # rawCFMSignal represents the analog signal from channel 0 on the multiplexer
-def sendCFM(rawCFMSignal):
+def calculateCFM(rawCFMSignal):
     calibration_constant = 3.0
     maxWaterColumnReading = 0.5
     CFMVoltage = abs(rawCFMSignal) / 500.0
