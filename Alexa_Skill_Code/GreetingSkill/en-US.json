@@ -1,0 +1,31 @@
+{
+	"invocation": "get us started",
+	"intents": [
+		{
+			"name": "GreetingIntent",
+			"phrases": [
+				"greeting"
+			]
+		}
+	],
+	"alexa": {
+		"interactionModel": {
+			"languageModel": {
+				"intents": [
+					{
+						"name": "AMAZON.CancelIntent",
+						"samples": []
+					},
+					{
+						"name": "AMAZON.HelpIntent",
+						"samples": []
+					},
+					{
+						"name": "AMAZON.StopIntent",
+						"samples": []
+					}
+				]
+			}
+		}
+	}
+}
