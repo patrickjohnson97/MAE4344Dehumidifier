@@ -85,7 +85,7 @@ def sendEmail(msg):
 		  "The dehumidifier has issued the following alert: \n" \
 		  "\t-"+msg+"\n" \
 					"Have a nice day!" # The /n separates the message from the headers
-	server.sendmail("okstatedehumidifier@gmail.com", "pjsoccer97@gmail.com", msgToSend)
+	server.sendmail("okstatedehumidifier@gmail.com", "patrick@patrickjohnson.co", msgToSend)
 	print("Email sent!")
 	return 0
 
