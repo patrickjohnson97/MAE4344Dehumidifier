@@ -386,6 +386,8 @@
   When you ran your app in the iPhone 7 Simulator app, the view in this scene is what you saw on the device screen. However, the scene on the canvas may not have the same dimensions as the simulator’s screen. You can select the screen size and orientation at the bottom of the canvas. In this case, it’s set to iPhone 7 in a portrait orientation, so the canvas and the simulator are the same.
 </p><p class="para">
   Even though the canvas shows a specific device and orientation, it is important to create an <span class="x-name"><a href="GlossaryDefinitions.html#//apple_ref/doc/uid/TP40015214-CH12-SW25" data-renderer-version="2" data-id="//apple_ref/doc/uid/TP40015214-CH12-SW25">adaptive interface</a></span>—an interface that automatically adjusts so that it looks good on any device and in any orientation. As you develop your interface, you can change the canvas’s view, letting you see how your interface adapts to different size screens.
-</p>
-  
+</p>  
 </section>
+
+
+## You are nbow ready to import the files from this directory into your Dehumidifier Project
