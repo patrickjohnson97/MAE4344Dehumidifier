@@ -390,4 +390,4 @@
 </section>
 
 
-## You are nbow ready to import the files from this directory into your Dehumidifier Project
+## You are now ready to import the files from this directory into your Dehumidifier Project
