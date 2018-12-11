@@ -1,0 +1,31 @@
+{
+	"invocation": "turn on high efficiency mode",
+	"intents": [
+		{
+			"name": "HighEfficiencyIntent",
+			"phrases": [
+				"high efficiency mode"
+			]
+		}
+	],
+	"alexa": {
+		"interactionModel": {
+			"languageModel": {
+				"intents": [
+					{
+						"name": "AMAZON.CancelIntent",
+						"samples": []
+					},
+					{
+						"name": "AMAZON.HelpIntent",
+						"samples": []
+					},
+					{
+						"name": "AMAZON.StopIntent",
+						"samples": []
+					}
+				]
+			}
+		}
+	}
+}
