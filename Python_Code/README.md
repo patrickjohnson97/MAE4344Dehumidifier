@@ -1,5 +1,5 @@
 # MAE4344Dehumidifier
-## This repository includes all relevant code for the Oklahoma State University Dehumidifier Senior Design Capstone project.
+## This repository includes the Python code which was used to control the target microcontroller -- the Raspberry Pi Model 3B
 
 ## Control Logic Diagram
 
